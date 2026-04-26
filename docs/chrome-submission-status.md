@@ -26,6 +26,8 @@ Last updated: 2026-04-26
 - Privacy policy URL filled:
   `https://cdn.jsdelivr.net/gh/roperluo32/accessibility-snapshot-auditor@main/site/privacy.html`
 - Distribution left as free, public, all regions.
+- Distribution draft was saved successfully after login.
+- The `Submit for review` / `提请审核` button is enabled in the Chrome developer dashboard.
 
 ## Not Done
 
