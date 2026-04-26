@@ -16,7 +16,7 @@ export default defineConfig({
   }),
   manifest: ({ browser }) => ({
     name: '__MSG_extensionName__',
-    short_name: 'A11y Snapshot',
+    short_name: 'A11y Audit',
     description: '__MSG_extensionDescription__',
     default_locale: 'en',
     version: '0.1.0',

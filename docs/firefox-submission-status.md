@@ -5,10 +5,8 @@ Last updated: 2026-04-26
 ## Status
 
 - AMO account is logged in as `roper`.
-- Submission flow reached:
-  `https://addons.mozilla.org/en-US/developers/addon/accessibility-snapshot-auditor/submit/details`
-- CAPTCHA was completed manually by the account owner.
-- The details form is filled and ready for final `Submit Version` confirmation.
+- Accessibility Snapshot Auditor `0.1.0` is shown in AMO Developer Hub as `Awaiting Review`.
+- Last updated by AMO: April 26, 2026.
 
 ## Prepared Files
 
@@ -18,6 +16,7 @@ Last updated: 2026-04-26
 
 ## Completed In Details Form
 
+- CAPTCHA was completed manually by the account owner.
 - Long description filled.
 - Category selected: Web Development.
 - Support URL filled:
@@ -28,5 +27,4 @@ Last updated: 2026-04-26
 
 ## Not Done
 
-- Final `Submit Version` was not clicked.
-- Final submission was not completed.
+- No further AMO action is pending while the version is awaiting review.
