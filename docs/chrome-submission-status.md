@@ -6,7 +6,7 @@ Last updated: 2026-04-26
 
 - Publisher: `pythonlearn1024@gmail.com`
 - Item ID: `camfnbhnaajfgnahhkdceinbopibpmpg`
-- Status: Draft, not submitted for review.
+- Status: Submitted for Chrome Web Store review by the account owner.
 - Draft URL: `https://chrome.google.com/u/2/webstore/devconsole/ee13d5b3-bece-46d7-8dcd-4062fd8e2b54/camfnbhnaajfgnahhkdceinbopibpmpg/edit`
 
 ## Completed In Draft
@@ -29,7 +29,6 @@ Last updated: 2026-04-26
 - Distribution draft was saved successfully after login.
 - The `Submit for review` / `提请审核` button is enabled in the Chrome developer dashboard.
 
-## Not Done
+## Submission
 
-- Final `Submit for review` / `提请审核` was not clicked.
-- The final submission action requires explicit account-owner confirmation.
+- Final `Submit for review` / `提请审核` was completed by the account owner after the draft was prepared.
