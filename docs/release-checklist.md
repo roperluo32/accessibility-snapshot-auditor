@@ -19,5 +19,6 @@
 - [x] Chrome 手动加载包已生成到 `manual-load/chrome-mv3/`。
 - [x] Chrome / Edge / Firefox release zip 已生成。
 - [x] Firefox AMO 源码包和构建说明已准备。
-- [ ] GitHub 仓库创建并推送。
-- [ ] 隐私政策 URL 公开可访问。
+- [x] GitHub 仓库创建并推送。
+- [x] GitHub Release 已上传三端包和 Firefox source 包。
+- [x] 隐私政策 URL 公开可访问，当前使用 jsDelivr URL。

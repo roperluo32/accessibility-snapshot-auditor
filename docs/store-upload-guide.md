@@ -39,6 +39,14 @@ Recommended category:
 
 ## Privacy And Permissions Notes
 
+Use this privacy policy URL for the first submission:
+
+```text
+https://cdn.jsdelivr.net/gh/roperluo32/accessibility-snapshot-auditor@main/site/privacy.html
+```
+
+`https://roperluo32.github.io/accessibility-snapshot-auditor/privacy.html` is deployed by GitHub Actions, but the account currently has an account-level Pages redirect that makes the `github.io` URL unreliable from this machine.
+
 Use this review note:
 
 ```text
