@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Accessibility Snapshot Auditor 隐私政策</title>
+  <style>
+    :root { color-scheme: light; --ink:#172019; --paper:#f7efe0; --card:#fffaf0; --acid:#d7ff4f; --moss:#667845; }
+    body { margin:0; background:linear-gradient(135deg,#f7efe0,#e4d7bf); color:var(--ink); font-family: Georgia, 'Times New Roman', serif; line-height:1.65; }
+    main { max-width: 860px; margin: 0 auto; padding: 56px 22px 80px; }
+    header { border:1px solid var(--ink); background:var(--card); border-radius:30px; padding:34px; box-shadow:10px 10px 0 var(--ink); margin-bottom:28px; }
+    .kicker { color:var(--moss); text-transform:uppercase; letter-spacing:.14em; font-weight:700; font-size:13px; margin:0 0 8px; }
+    h1 { font-size:44px; line-height:1; letter-spacing:-.05em; margin:0; }
+    h2 { margin-top:30px; font-size:22px; }
+    section { border:1px solid rgba(23,32,25,.18); border-radius:20px; background:rgba(255,250,240,.72); padding:18px 22px; margin:16px 0; }
+    code { background:rgba(23,32,25,.08); padding:2px 6px; border-radius:7px; }
+    a { color:#2f5f2f; font-weight:700; }
+  </style>
+</head>
+<body>
+<main>
+  <header>
+    <p class="kicker">Privacy Policy</p>
+    <h1>Accessibility Snapshot Auditor 隐私政策</h1>
+    <p>最后更新：2026-04-26</p>
+  </header>
+  <section>
+    <h2>概述</h2>
+    <p>Accessibility Snapshot Auditor 是一个本地无障碍快照审计浏览器插件，用于检查当前网页的结构、可访问名称、表单标签、媒体替代文本、ARIA、键盘顺序和颜色对比。</p>
+  </section>
+  <section>
+    <h2>数据处理原则</h2>
+    <ul>
+      <li>插件默认在本地浏览器中扫描当前页面。</li>
+      <li>插件不会默认上传网页正文、DOM、截图或扫描结果到服务器。</li>
+      <li>扫描历史保存在浏览器本地 storage 中，用户可以在 Options 页面清除。</li>
+      <li>免费功能不需要账号登录。</li>
+    </ul>
+  </section>
+  <section>
+    <h2>插件会访问的数据</h2>
+    <p>为了完成用户主动触发的审计，插件可能读取当前页面的 title、lang、标题结构、地标元素、链接和按钮文本、图片 alt、表单标签、ARIA 属性、tabindex、可见文本和计算样式。</p>
+  </section>
+  <section>
+    <h2>本地保存的数据</h2>
+    <p>插件会在浏览器本地保存最近扫描历史和用户选择的界面语言。</p>
+  </section>
+  <section>
+    <h2>第三方服务</h2>
+    <p>当前版本为免费插件，不需要账号登录，也不会保存账号、付款或远程授权信息。</p>
+  </section>
+  <section>
+    <h2>权限说明</h2>
+    <ul>
+      <li><code>activeTab</code>：用户主动点击扫描时访问当前标签页。</li>
+      <li><code>scripting</code>：向当前网页注入一次性扫描脚本。</li>
+      <li><code>storage</code>：保存本地历史和界面语言设置。</li>
+      <li><code>tabs</code>：获取当前标签页 ID、URL 和标题，用于扫描和历史记录。</li>
+    </ul>
+    <p>插件不请求所有网站的常驻访问权限，只会在用户点击扫描按钮后，通过 <code>activeTab</code> 临时访问当前标签页。</p>
+  </section>
+  <section>
+    <h2>联系方式</h2>
+    <p>如有隐私或支持问题，请联系：<a href="mailto:858338966@qq.com">858338966@qq.com</a></p>
+  </section>
+</main>
+</body>
+</html>

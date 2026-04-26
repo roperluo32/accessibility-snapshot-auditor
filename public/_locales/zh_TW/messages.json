@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "無障礙快照稽核器"
+  },
+  "extensionDescription": {
+    "message": "本機稽核頁面結構、標籤、媒體、ARIA、鍵盤與色彩對比。"
+  }
+}

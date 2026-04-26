@@ -1,0 +1,23 @@
+# Accessibility Snapshot Auditor 发布前 Checklist
+
+- [x] WXT / React / TypeScript 项目已建立。
+- [x] Manifest 使用 `activeTab`、`scripting`、`storage`、`tabs`，无宽泛 host 权限。
+- [x] 支持多语言 manifest 与插件 UI。
+- [x] 可以检测文档 lang、title、H1、标题层级和 main 地标。
+- [x] 可以检测交互元素可访问名称。
+- [x] 可以检测表单 label。
+- [x] 可以检测图片文本替代。
+- [x] 可以检测 ARIA hidden focusable 和正数 tabindex。
+- [x] 可以检测基础文本对比度。
+- [x] 支持 HTML / CSV 报告导出。
+- [x] 支持本地审计历史。
+- [x] 单元测试通过。
+- [x] Chrome / Edge / Firefox 构建通过。
+- [x] E2E 冒烟测试通过。
+- [x] 使用 `$imagegen` 生成 logo 和商店主视觉底图。
+- [x] 图标、商店截图和多语言商店素材首版制作完成。
+- [x] Chrome 手动加载包已生成到 `manual-load/chrome-mv3/`。
+- [x] Chrome / Edge / Firefox release zip 已生成。
+- [x] Firefox AMO 源码包和构建说明已准备。
+- [ ] GitHub 仓库创建并推送。
+- [ ] 隐私政策 URL 公开可访问。

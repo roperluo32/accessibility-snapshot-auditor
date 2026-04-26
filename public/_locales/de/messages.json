@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "Accessibility Snapshot Auditor"
+  },
+  "extensionDescription": {
+    "message": "Prüft Seitenzugänglichkeit lokal: Struktur, Labels, Medien, ARIA, Tastatur und Kontrast."
+  }
+}

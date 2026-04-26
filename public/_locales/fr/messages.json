@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "Accessibility Snapshot Auditor"
+  },
+  "extensionDescription": {
+    "message": "Audite localement structure, libellés, médias, ARIA, clavier et contraste."
+  }
+}

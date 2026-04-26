@@ -1,0 +1,8 @@
+{
+  "extensionName": {
+    "message": "Accessibility Snapshot Auditor"
+  },
+  "extensionDescription": {
+    "message": "構造、ラベル、メディア、ARIA、キーボード、コントラストをローカル監査。"
+  }
+}
