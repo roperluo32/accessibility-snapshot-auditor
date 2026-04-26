@@ -20,11 +20,14 @@ Last updated: 2026-04-26
 ## Warnings And Blockers
 
 - Edge warns that `short_name` value `A11y Snapshot` exceeds 12 characters.
-- English listing image upload currently fails in Partner Center with:
-  `Something went wrong. Please try again. correlationId : 703487ca-7b77-471f-a6eb-8506a3c4518e`
+- English listing screenshot upload succeeded with `store-assets/edge/screenshot-640x400.png`.
+- English listing logo upload currently fails in Partner Center. Observed correlation IDs:
+  - `703487ca-7b77-471f-a6eb-8506a3c4518e`
+  - `fe4d3f7a-b56c-4bbe-8341-11936ccc327e`
+- Retried logo uploads with 300x300, 128x128, and a minimal 300x300 PNG. The logo field still failed near the end of upload.
 - Generated lightweight Edge image derivatives are available in `store-assets/edge/`.
 
 ## Not Done
 
-- English listing could not be saved because Partner Center image uploads failed.
+- English listing could not be saved because the required logo upload failed.
 - Final `Publish` was not clicked.
